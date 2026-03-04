@@ -1,0 +1,6 @@
+[submodule "blog-web-website"]
+	path = blog-web-website
+	url = https://github.com/libra819/blog-web-website
+[submodule "NGServer"]
+	path = NGServer
+	url = https://github.com/libra819/NGServer.git
